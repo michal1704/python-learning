@@ -11,3 +11,4 @@ for cislo in cisla:
 
 print(vybrana)
 print(soucet)
+
